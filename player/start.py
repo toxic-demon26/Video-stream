@@ -68,16 +68,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="devs":
         buttons = [
             [
-                InlineKeyboardButton("Lᴏᴜɪꜱ", url="https://t.me/DeeCodeBots"),
-                InlineKeyboardButton("Eʀʀᴏʀ", url="https://t.me/ProErrorXD"),
+                InlineKeyboardButton("ASHU", url="https://t.me/doreamon_music"),
+                InlineKeyboardButton("owner bots", url="https://t.me/ASHU_S_botS"),
             ],
             [
-                InlineKeyboardButton("Bʟᴀᴢᴇ", url="https://t.me/piroXpower"),
-                InlineKeyboardButton("Pʀɪɴᴄᴇ", url="https://t.me/DEVILDAD_PRINCE"),
+                InlineKeyboardButton("error", url="https://t.me/Darkphoenix_Support"),
+                InlineKeyboardButton("uodates", url="https://t.me/Miss_Akshi_updates"),
             ],
             [
-                InlineKeyboardButton("Hʏᴏᴋᴀ", url="https://t.me/Pratheek_XD"),
-                InlineKeyboardButton("Zᴀʟɪᴍ", url="https://t.me/Jalim_Munda"),
+                InlineKeyboardButton("owner groups", url="https://t.me/toxic_life_2601"),
+                InlineKeyboardButton("Miss_Akshi", url="https://t.me/Miss_Akshi"),
             ],
             [
                 InlineKeyboardButton("Bᴀᴄᴋ", callback_data="start"),
